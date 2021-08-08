@@ -1,0 +1,213 @@
+SNAME1,SNAME2,SNAME3,SNAME4,SNAME5,FULLSNAME,US,CANADA,FOREIGN
+Alberta,,,,,Alberta,0,1,1
+Alta,,,,,Alberta,0,1,1
+Alt.,,,,,Alberta,0,1,1
+B.C.,,,,,British Columbia,0,1,1
+British Columbia.,,,,,British Columbia,0,1,1
+Man.,,,,,Manitoba,0,1,1
+Manitoba,,,,,Manitoba,0,1,1
+N. B.,,,,,New Brunswick,0,1,1
+New Brunswick,,,,,New Brunswick,0,1,1
+Newfoundland,,,,,Newfoundland and Labrador,0,1,1
+N. W. T,,,,,Northwest Territories,0,1,1
+N.S,,,,,Nova Scotia,0,1,1
+Nova Scotia,,,,,Nova Scotia,0,1,1
+N.S.,,,,,Nova Scotia,0,1,1
+Ont.,,,,,Ontario,0,1,1
+Ontario,,,,,Ontario,0,1,1
+P. E. I,,,,,Prince Edward Island,0,1,1
+P. E. Isl,,,,,Prince Edward Island,0,1,1
+P.E. Island,,,,,Prince Edward Island,0,1,1
+Prince Edward Island,,,,,Prince Edward Island,0,1,1
+Que,,,,,Quebec,0,1,1
+Que.,,,,,Quebec,0,1,1
+Bagot,,,,,Quebec,0,1,1
+P.Q.,,,,,Quebec,0,1,1
+Quebec,,,,,Quebec,0,1,1
+Sask,,,,,Saskatchewan,0,1,1
+Sask.,,,,,Saskatchewan,0,1,1
+Ala.,Ala.,,,,Alabama,1,0,0
+Alabama,,,,,Alabama,1,0,0
+Alaska,Alaska,Alas.,,,Alaska,1,0,0
+Ariz.,Ariz.,Az.,,,Arizona,1,0,0
+Ark.,Ark.,,,,Arkansas,1,0,0
+Arkansas,,,,,Arkansas,1,0,0
+Calif.,Calif.,Ca.,Cal.,,California,1,0,0
+California,,,,,California,1,0,0
+Can.,,,,,Canada,1,0,0
+Colo.,Colo.,,,,Colorado,1,0,0
+Colorado.,,,,,Colorado,1,0,0
+Con.,,,,,Connecticut,1,0,0
+Conn.,Conn.,Ct.,,,Connecticut,1,0,0
+Connecticut,,,,,Connecticut,1,0,0
+Del.,Del.,De.,,,Delaware,1,0,0
+D.C.,D. C.,Wash. D.C.,,,District of Columbia,1,0,0
+Fla.,Fla.,Fl.,Flor.,,Florida,1,0,0
+Florida,,,,,Florida,1,0,0
+Aberdeen,,,,,FOREIGN,0,0,1
+Alsace,,,,,FOREIGN,0,0,1
+Alsace-Lorraine,,,,,FOREIGN,0,0,1
+B.W.I.,B. W. I.,British West Indies,,"Brit., W. I.",FOREIGN,0,0,1
+Bavaria,,,,,FOREIGN,0,0,1
+Bohemia,,,,,FOREIGN,0,0,1
+Bt.,,,,,FOREIGN,0,0,1
+Bulacan,,,,,FOREIGN,0,0,1
+Chile,,,,,FOREIGN,0,0,1
+Concepcion,,,,,FOREIGN,0,0,1
+Czechoslovakia,,,,,FOREIGN,0,0,1
+D.F.,,,,,FOREIGN,0,0,1
+D.W.I.,,,,,FOREIGN,0,0,1
+Ebberfeld,,,,,FOREIGN,0,0,1
+Eng.,,,,,FOREIGN,0,0,1
+Haiti,,,,,FOREIGN,0,0,1
+Ilocos Norte,,,,,FOREIGN,0,0,1
+Ireland,,,,,FOREIGN,0,0,1
+Italy,,,,,FOREIGN,0,0,1
+Java,,,,,FOREIGN,0,0,1
+Laguna,,,,,FOREIGN,0,0,1
+Latvia,,,,,FOREIGN,0,0,1
+Manchuria,,,,,FOREIGN,0,0,1
+Saxony,,,,,FOREIGN,0,0,1
+Scotland,,,,,FOREIGN,0,0,1
+South Wales,,,,,FOREIGN,0,0,1
+Sweden,,,,,FOREIGN,0,0,1
+Turkey,,,,,FOREIGN,0,0,1
+Wales,,,,,FOREIGN,0,0,1
+Wales.,,,,,FOREIGN,0,0,1
+Asia Minor,,,,,FOREIGN,0,0,1
+bid.,,,,,FOREIGN,0,0,1
+C.Z.,,,,,FOREIGN,0,0,1
+Ebberfeld,,,,,FOREIGN,0,0,1
+Mex.,,,,,FOREIGN,0,0,1
+Michoacan,,,,,FOREIGN,0,0,1
+N.Z.,,,,,FOREIGN,0,0,1
+P.I.,,,,,FOREIGN,0,0,1
+P.R.,Porto Rico,,,,Puerto Rico,1,0,0
+Palestine,,,,,FOREIGN,0,0,1
+Pangasinan,,,,,FOREIGN,0,0,1
+Prague,,,,,FOREIGN,0,0,1
+Prussia,,,,,FOREIGN,0,0,1
+Qro.,,,,,FOREIGN,0,0,1
+S. Rhodesia,,,,,FOREIGN,0,0,1
+S. Wales,,,,,FOREIGN,0,0,1
+S.A.,,,,,FOREIGN,0,0,1
+Siam,,,,,FOREIGN,0,0,1
+Siberia,,,,,FOREIGN,0,0,1
+Silesia,,,,,FOREIGN,0,0,1
+South Australia,,,,,FOREIGN,0,0,1
+South Seas,,,,,FOREIGN,0,0,1
+T.H.,,,,,FOREIGN,0,0,1
+Tamaulipas,,,,,FOREIGN,0,0,1
+Tamps.,,,,,FOREIGN,0,0,1
+V.I.,US Virgin Islands,"Virgin Islands, US A",,,US Virgin Islands,1,0,0
+W. Australia,,,,,FOREIGN,0,0,1
+West Australia,,,,,FOREIGN,0,0,1
+Westphalia,,,,,FOREIGN,0,0,1
+Ga.,Ga.,,,,Georgia,1,0,0
+Hawaii,Hawaii,H.I.,,,Hawaii,1,0,0
+Idaho,Idaho,Id.,Ida.,,Idaho,1,0,0
+Ill.,Ill.,Il.,Ills.,Ill's,Illinois,1,0,0
+Illinois,,,,,Illinois,1,0,0
+Ind.,Ind.,In.,,,Indiana,1,0,0
+Indiana,,,,,Indiana,1,0,0
+IA,,,,,Iowa,1,0,0
+Ia.,,,,,Iowa,1,0,0
+Iowa,Iowa,Ia.,Ioa.,,Iowa,1,0,0
+Kan.,,,,,Kansas,1,0,0
+Kans.,Kan.,Ks.,Ka.,,Kansas,1,0,0
+Kansas,,,,,Kansas,1,0,0
+Kent.,,,,,Kentucky,1,0,0
+Kentucky.,,,,,Kentucky,1,0,0
+Ky.,Ky.,Ken.,Kent.,,Kentucky,1,0,0
+La.,La.,,,,Louisiana,1,0,0
+Louisiana,,,,,Louisiana,1,0,0
+Maine,Maine,Me.,,,Maine,1,0,0
+MD,,,,,Maryland,1,0,0
+Md.,Md.,,,,Maryland,1,0,0
+Maryland,,,,,Maryland,1,0,0
+Mass.,Mass.,,,,Massachusetts,1,0,0
+Mich.,Mich.,,,,Michigan,1,0,0
+Michigan,,,,,Michigan,1,0,0
+Minn.,Minn.,Mn.,,,Minnesota,1,0,0
+Minnesota,,,,,Minnesota,1,0,0
+Miss.,Miss.,,,,Mississippi,1,0,0
+Mo.,Mo.,,,,Missouri,1,0,0
+Mont.,Mont.,,,,Montana,1,0,0
+Montana,,,,,Montana,1,0,0
+Nebr.,Neb.,,,,Nebraska,1,0,0
+Nebraska,,,,,Nebraska,1,0,0
+Nev.,Nev.,Nv.,,,Nevada,1,0,0
+Nevada,,,,,Nevada,1,0,0
+N.H.,N. H.,,,,New Hampshire,1,0,0
+New Hampshire,,,,,New Hampshire,1,0,0
+N.J.,N. J.,N. Jersey,,,New Jersey,1,0,0
+NJ,,,,,New Jersey,1,0,0
+New Jersey,,,,,New Jersey,1,0,0
+N. Mex.,N. M.,New M.,,,New Mexico,1,0,0
+L.I.,,,,,New York,1,0,0
+N.Y.,N. Y.,N. York,N. Y,,New York,1,0,0
+NY,,,,,New York,1,0,0
+N. Y.,,,,,New York,1,0,0
+New York,,,,,New York,1,0,0
+"L. I, N. Y",,,,,New York,1,0,0
+N.C.,N. C.,N. Car.,,,North Carolina,1,0,0
+N. Carolina,,,,,North Carolina,1,0,0
+N. Dak.,N. D.,NoDak,N.Dak,,North Dakota,1,0,0
+N.Dak,,,,,North Dakota,1,0,0
+Dakota Territory,,,,,North Dakota,1,0,0
+Ohio,Ohio,O.,Oh.,,Ohio,1,0,0
+Okla.,Okla.,Ok.,,,Oklahoma,1,0,0
+Okla. Territory,,,,,Oklahoma,1,0,0
+Oklahoma,,,,,Oklahoma,1,0,0
+Oreg.,Ore.,Or.,,,Oregon,1,0,0
+PA,,,,,Pennsylvania,1,0,0
+Pa.,Pa.,Penn.,Penna.,,Pennsylvania,1,0,0
+Pennsylvania,,,,,Pennsylvania,1,0,0
+Oa.,,,,,Pennsylvania,1,0,0
+pa.,,,,,Pennsylvania,1,0,0
+Penna.,,,,,Pennsylvania,1,0,0
+R.I.,R. I.,R I. ,R. Isl.,R.Isl.,Rhode Island,1,0,0
+Rhode Island,,,,,Rhode Island,1,0,0
+S.C.,S. C.,S. Car.,,,South Carolina,1,0,0
+S. Dak.,S. D.,SoDak,S.Dak.,,South Dakota,1,0,0
+S.Dak,,,,,South Dakota,1,0,0
+S.D.,,,,,South Dakota,1,0,0
+Tenn.,Tenn.,,,,Tennessee,1,0,0
+Tex.,Texas,Tx.,,,Texas,1,0,0
+Texas,,,,,Texas,1,0,0
+West Texas,,,,,Texas,1,0,0
+Utah,Utah,Ut.,,,Utah,1,0,0
+Vermont,,,,,Vermont,1,0,0
+Vt.,Vt.,,,,Vermont,1,0,0
+Bt.,,,,,Vermont,1,0,0
+W. Va.,W.Va.,W.V.,W. Virg.,W.Virg.,West Virginia,1,0,0
+W.Va,,,,,West Virginia,1,0,0
+Va.,Va.,Virg.,,,Virginia,1,0,0
+Wash.,Wash.,Wa.,Wn.,,Washington,1,0,0
+Washington,,,,,Washington,1,0,0
+Wisconsin,,,,,Wisconsin,1,0,0
+Wyo.,Wyo.,Wy.,,,Wyoming,1,0,0
+Wyoming,,,,,Wyoming,1,0,0
+Yukon,,,,,Yukon,0,1,1
+Yukon Territory,,,,,Yukon,0,1,1
+Saskatchewan,,,,,Saskatchewan,0,1,1
+Tenerife,,,,,FOREIGN,0,0,1
+Toronto,,,,,Ontario,0,1,1
+Wisc.,Wis.,,,,Wisconsin,1,0,0
+Oregon,,,,,Oregon,1,0,0
+Sas.,,,,,Saskatchewan,0,1,1
+B.S.,,,,,British Columbia,0,1,1
+D.E.I,,,,,FOREIGN,0,0,1
+lowa,,,,,Iowa,1,0,0
+Guam,,,,,Guam,1,0,0
+W Africa,West Africa,,,,FOREIGN,0,0,1
+South Am,,,,,FOREIGN,0,0,1
+American Samoa,,,,,American Samoa,1,0,0
+Bahamas,,,,,FOREIGN,0,0,1
+Barbados,,,,,FOREIGN,0,0,1
+West Indies,,,,,FOREIGN,0,0,1
+British Guiana,,,,,FOREIGN,0,0,1
+Bermuda,,,,,FOREIGN,0,0,1
+Republic of Portugal,,,,,FOREIGN,0,0,1
+Liberia,,,,,FOREIGN,0,0,1
+Jamaica,,,,,FOREIGN,0,0,1
